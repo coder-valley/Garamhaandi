@@ -1,0 +1,10 @@
+[09-Sep-2015 19:05:01 UTC] PHP Fatal error:  Call to undefined method View::elements() in /home/ajaydhul/public_html/app/View/Layouts/public.ctp on line 31
+[18-Oct-2015 13:37:01 UTC] PHP Parse error:  syntax error, unexpected '@' in /home/ajaydhul/public_html/app/View/Users/admin_edit_product.ctp on line 122
+[18-Oct-2015 13:38:11 UTC] PHP Parse error:  syntax error, unexpected '@' in /home/ajaydhul/public_html/app/View/Users/admin_edit_product.ctp on line 122
+[18-Oct-2015 13:38:22 UTC] PHP Parse error:  syntax error, unexpected '@' in /home/ajaydhul/public_html/app/View/Users/admin_edit_product.ctp on line 122
+[18-Oct-2015 13:39:34 UTC] PHP Parse error:  syntax error, unexpected '@' in /home/ajaydhul/public_html/app/View/Users/admin_edit_product.ctp on line 122
+[18-Oct-2015 13:40:58 UTC] PHP Parse error:  syntax error, unexpected '@' in /home/ajaydhul/public_html/app/View/Users/admin_edit_product.ctp on line 122
+[18-Oct-2015 13:41:46 UTC] PHP Parse error:  syntax error, unexpected '@' in /home/ajaydhul/public_html/app/View/Users/admin_edit_product.ctp on line 122
+[18-Oct-2015 13:45:11 UTC] PHP Parse error:  syntax error, unexpected '@' in /home/ajaydhul/public_html/app/View/Users/admin_edit_product.ctp on line 122
+[18-Oct-2015 13:45:30 UTC] PHP Parse error:  syntax error, unexpected '@' in /home/ajaydhul/public_html/app/View/Users/admin_edit_product.ctp on line 122
+[18-Oct-2015 17:04:58 UTC] PHP Fatal error:  Class 'SitemapAppController' not found in /home/ajaydhul/public_html/app/Controller/SitemapController.php on line 18

@@ -1,0 +1,63 @@
+.a
+{
+	font-weight: 700!important;
+	font-size: 17px!important;
+    line-height: 1.255!important;
+	color: #333!important;
+	font-family: "Amazon Ember",Arial,sans-serif;
+	margin-left: 2%;
+
+}
+.b
+{
+	font-family: "Amazon Ember",Arial,sans-serif;
+	font-size: 13px;
+    line-height: 19px;
+    color: #333;
+    margin-left: 2%;
+}
+.c
+{
+	width:150px;
+	margin-top:20px;
+	margin-left: 15%;
+	margin-top: -2%;
+}
+.d
+{
+	text-decoration: none;
+    color: #0066c0;
+	font-family: "Amazon Ember",Arial,sans-serif;
+	font-size: 13px;
+    line-height: 19px;
+	margin-top: -75px;
+	margin-left: 5%;
+}
+.e
+{
+	text-decoration: inherit;
+    white-space: nowrap;
+	font-size: 12px!important;
+    line-height: 1.5!important;
+	color: #B12704!important;
+	font-family: "Amazon Ember",Arial,sans-serif;
+	
+	margin-left: 5%;
+	
+}
+.f
+{
+	cursor: pointer;
+    -webkit-appearance: button;
+	background-color: #0C786B;
+	color: white;
+	text-decoration: none;
+	border:none;
+	font-size:16px;
+	padding:2px;
+	border-radius:4px;
+	width: 20%;
+	margin-top: -3px;
+	outline:none;
+	margin-left: 5%;
+}
